@@ -37,3 +37,6 @@ The project is integrated with Anvil to provide a web-based interface for predic
 
 **License**
 This project is licensed under the MIT License.
+
+**Check out the anvil app**
+https://uncommon-vibrant-wait.anvil.app
