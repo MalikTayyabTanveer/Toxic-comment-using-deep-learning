@@ -4,7 +4,7 @@ This project focuses on building a model to classify toxic comments into differe
 **Table of Contents**
 1. Introduction
 2. Dataset
-3.Model Architecture
+3. Model Architecture
 4. Training
 5. Evaluation
 6. Visualization
