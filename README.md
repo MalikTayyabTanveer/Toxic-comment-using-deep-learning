@@ -3,21 +3,22 @@ This project focuses on building a model to classify toxic comments into differe
 
 **Table of Contents**
 1. [Introduction](#Introduction)
-2. Dataset(#Dataset)
-3. Model Architecture
-4. Training
-5. Evaluation
-6. Visualization
-7. Anvil Integration
-8. License
+2. [Dataset](#Dataset)
+3. [Model Architecture](#Model Architecture)
+4. [Training](#Training)
+5. [Evaluation](#Evaluation)
+6. [Visualization](#Visualization)
+7. [Anvil Integration](#Anvil Integration)
+8. [Contributors](#Contributors)
+9. [License](#License)
 
-##Introduction
+## Introduction
 This project aims to classify toxic comments using deep learning techniques. The model leverages LSTM layers to understand the sequence of words and identify toxicity in comments.
 
-**Dataset**
+## Dataset
 The dataset used in this project is taken from https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data containing comments and their associated labels. The dataset is loaded and preprocessed using pandas and TensorFlow.
 
-**Model Architecture**
+## Model Architecture
 The model architecture consists of the following layers:
 1. Embedding Layer
 2. Bidirectional LSTM Layer
@@ -26,21 +27,21 @@ The model architecture consists of the following layers:
 5.Training
 The model is trained using a binary cross-entropy loss function and the Adam optimizer. The dataset is split into training, validation, and test sets. The model is trained for 5 epochs.
 
-**Evaluation**
+## Evaluation
 The model is evaluated using precision, recall, and accuracy metrics. These metrics help in understanding the performance of the model on the test set.
 
-**Visualization**
+## Visualization
 The project includes a function to visualize the most common words contributing to a specific class using word clouds.
 
-**Anvil Integration**
+## Anvil Integration
 The project is integrated with Anvil to provide a web-based interface for predicting the toxicity of comments. The Anvil server is connected using an uplink key.
 
 ## Contributors
 - **[Tayyab Tanveer](https://www.linkedin.com/in/tayyab-tanveer-b000282b3)** - Lead Developer
 - **[Ali Raza](https://www.linkedin.com/in/ali-raza-se)** - Lead Developer
 
-**License**
+## License
 This project is licensed under the MIT License.
 
-**Check out the anvil app**
+## Check out the anvil app
 https://uncommon-vibrant-wait.anvil.app
