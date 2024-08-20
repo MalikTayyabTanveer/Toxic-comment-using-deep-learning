@@ -11,7 +11,7 @@ This project focuses on building a model to classify toxic comments into differe
 7. Anvil Integration
 8. License
 
-**Introduction**
+**##Introduction**
 This project aims to classify toxic comments using deep learning techniques. The model leverages LSTM layers to understand the sequence of words and identify toxicity in comments.
 
 **Dataset**
