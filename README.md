@@ -2,7 +2,7 @@
 This project focuses on building a model to classify toxic comments into different categories such as toxic, severe toxic, obscene, threat, insult, and identity hate. The model is built using TensorFlow and Keras.
 
 **Table of Contents**
-1. Introduction(#Introduction)
+1. [Introduction](#Introduction)
 2. Dataset(#Dataset)
 3. Model Architecture
 4. Training
