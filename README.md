@@ -8,7 +8,7 @@ This project focuses on building a model to classify toxic comments into differe
 4. [Training](#Training)
 5. [Evaluation](#Evaluation)
 6. [Visualization](#Visualization)
-7. [Anvil Integration](#Anvil Integration)
+7. [Anvil_Integration](#Anvil_Integration)
 8. [Contributors](#Contributors)
 9. [License](#License)
 
@@ -33,7 +33,7 @@ The model is evaluated using precision, recall, and accuracy metrics. These metr
 ## Visualization
 The project includes a function to visualize the most common words contributing to a specific class using word clouds.
 
-## Anvil Integration
+## Anvil_Integration
 The project is integrated with Anvil to provide a web-based interface for predicting the toxicity of comments. The Anvil server is connected using an uplink key.
 
 ## Contributors
