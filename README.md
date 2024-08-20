@@ -4,7 +4,7 @@ This project focuses on building a model to classify toxic comments into differe
 **Table of Contents**
 1. [Introduction](#Introduction)
 2. [Dataset](#Dataset)
-3. [Model Architecture](#Model Architecture)
+3. [Model_Architecture](#Model_Architecture)
 4. [Training](#Training)
 5. [Evaluation](#Evaluation)
 6. [Visualization](#Visualization)
@@ -18,7 +18,7 @@ This project aims to classify toxic comments using deep learning techniques. The
 ## Dataset
 The dataset used in this project is taken from https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data containing comments and their associated labels. The dataset is loaded and preprocessed using pandas and TensorFlow.
 
-## Model Architecture
+## Model_Architecture
 The model architecture consists of the following layers:
 1. Embedding Layer
 2. Bidirectional LSTM Layer
