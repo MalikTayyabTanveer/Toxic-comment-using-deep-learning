@@ -2,8 +2,8 @@
 This project focuses on building a model to classify toxic comments into different categories such as toxic, severe toxic, obscene, threat, insult, and identity hate. The model is built using TensorFlow and Keras.
 
 **Table of Contents**
-1. Introduction
-2. Dataset
+1. Introduction(#Introduction)
+2. Dataset(#Dataset)
 3. Model Architecture
 4. Training
 5. Evaluation
@@ -34,6 +34,10 @@ The project includes a function to visualize the most common words contributing 
 
 **Anvil Integration**
 The project is integrated with Anvil to provide a web-based interface for predicting the toxicity of comments. The Anvil server is connected using an uplink key.
+
+## Contributors
+- **[Tayyab Tanveer](https://www.linkedin.com/in/tayyab-tanveer-b000282b3)** - Lead Developer
+- **[Ali Raza](https://www.linkedin.com/in/ali-raza-se)** - Lead Developer
 
 **License**
 This project is licensed under the MIT License.
